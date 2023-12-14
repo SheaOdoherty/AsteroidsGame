@@ -26,7 +26,7 @@ public Spaceship() {
   public double getXspeed(){
     return myXspeed;
   }
-  public double getmyYspeed(){
+  public double getYspeed(){
     return myYspeed;
   }
   public double getmyPointDirection(){
